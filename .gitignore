@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+UniDash.API/appsettings.json
+UniDash.API/appsettings.Development.json
